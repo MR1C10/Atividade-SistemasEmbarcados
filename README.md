@@ -34,6 +34,6 @@ Cada exercício está em um arquivo separado: `Ex1.cpp`, `Ex2.cpp`, ..., `Ex10.c
 3. Monte o circuito conforme o exercício.
 4. Cole o código no editor de código do Tinkercad.
 5. Clique em **Iniciar Simulação** para ver o código em ação.
-6. 
+   
 ---
 
